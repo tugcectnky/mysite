@@ -1,6 +1,0 @@
-.idea
-website/Include
-website/Lib
-website/Scripts
-website/tcl
-db.sqlite3
